@@ -86,7 +86,7 @@ class Home extends Component {
             <div className={classes.introText}>
               <div className={classes.introLeadIn}>Welcome!</div>
               <div className={classes.introHeading}>Mostly Plants 101</div>
-              <Button className={classes.button} size="large">
+              <Button className={classes.button} size="large" href="#about">
                 Tell Me More
               </Button>
             </div>
