@@ -17,7 +17,8 @@ export default createMuiTheme({
   },
   typography: {
     fontSize: 16,
-    useNextVariants: true
+    useNextVariants: true,
+    fontFamily: '"Montserrat"'
   },
   sectionPadding: {
     padding: "3rem 0"
